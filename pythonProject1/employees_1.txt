@@ -1,0 +1,5 @@
+Alice Johnson,Project Manager,Female,$90.000,8
+Bob Smith,UI/UX Designer,Male,$85.000,5
+Carol Taylor,Software Developer,Female,$105.000,6
+David Lee,Data Scientist,Male,$110.000,7
+Eva Brown,Product Manager,Female,$95.000,9
